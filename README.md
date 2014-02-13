@@ -5,7 +5,7 @@ The Habbo Imager is a Windows Desktop Application. The Habbo Imager was created 
 
 Releases
 ---------------------
-The latest stable release is [version 0.3.4](http://thi.techmania-hosts.com/web/grab-it) and was released on the 25 March 2013. The latest beta release is [version 0.3.6](http://thi.techmania-hosts.com/web/grab-it) and was released on the 30 March 2013.
+The latest stable release is [version 0.3.5](http://thi.techmania-hosts.com/web/grab-it?v=0.3.5) and was released on the 13 February 2014. The latest beta release is [version 0.3.6](http://thi.techmania-hosts.com/web/grab-it) and was released on the 30 March 2013.
 
 Bug
 ---------------------
@@ -14,5 +14,5 @@ If you're having any problems or found a bug [please do let us know](http://bug.
 
 Credits
 ---------------------
-Thanks to the team behind JordanTBH Technologies. And thanks to everyone else who's fixed or reported an issue!
+Thanks to the team behind JordanTBH Technologies with thanks to everyone else who's fixed or reported an issue!
 
